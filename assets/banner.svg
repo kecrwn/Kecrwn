@@ -1,0 +1,23 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 800 150'
+    style='background-color: #00000000;'
+    width='800px' height='150px'>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d0.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,75 h0 ; m0,75 h800 ; m0,75 h800 ; m0,75 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"UnifrakturMaguntia", monospace' fill='#C2181C' font-size='75'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Kecrwn
+        </textPath>
+    </text>
+</svg>
