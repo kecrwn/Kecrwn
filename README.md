@@ -16,6 +16,24 @@
 
 <br/>
 <div align="center">
+```text
+           , - ~ ~ ~ - ,
+       , '               ' ,
+     ,                       ,
+    ,      , - ~ ~ ~ - ,      ,
+   ,     ,               ,     ,
+  ,     ,     . - .       ,     ,
+  ,     ,    |  o  |      ,     ,
+  ,     ,     ' - '       ,     ,
+   ,     ,               ,     ,
+    ,      , - ~ ~ ~ - ,      ,
+     ,                       ,
+       ,                   , '
+         ' - , _ _ _ ,  '
+```
+</div>
+<br/>
+<div align="center">
   <img src="./tendril.svg" alt="Tendril Divider" />
 </div>
 <br/>
