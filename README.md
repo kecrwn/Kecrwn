@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kecrwn&show_icons=true&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&icon_color=8B0000&border_color=3A3A3A&hide_border=false" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kecrwn&layout=donut&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&border_color=3A3A3A&hide_border=false&custom_title=System%20Core%20Integrity&ring_color=C2181C" alt="Arc Reactor Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kecrwn&theme=tokyonight" alt="Arc Reactor Stats" />
 
   <br/>
   <br/>
@@ -72,6 +72,9 @@
 
 <div align="center">
   <img src="./tendril.svg" alt="Tendril Divider" />
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&pause=3000&color=C2181C&center=true&vCenter=true&width=500&lines=Initiating+secure+uplink...;[+Contact+]+k.ecrwn%2Bgithub@gmail.com;Awaiting+transmission." alt="Comms Link" />
   <br/>
   <p><sub>I only consume what I build.</sub></p>
 </div>
