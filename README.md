@@ -17,19 +17,20 @@
 <br/>
 <div align="center">
 ```text
-           , - ~ ~ ~ - ,
-       , '               ' ,
-     ,                       ,
-    ,      , - ~ ~ ~ - ,      ,
-   ,     ,               ,     ,
-  ,     ,     . - .       ,     ,
-  ,     ,    |  o  |      ,     ,
-  ,     ,     ' - '       ,     ,
-   ,     ,               ,     ,
-    ,      , - ~ ~ ~ - ,      ,
-     ,                       ,
-       ,                   , '
-         ' - , _ _ _ ,  '
+           \ \ / /
+          - (O O) -
+           /  v  \
+          / /\_/\ \
+         - /     \ -
+          / /\_/\ \
+         - /     \ -
+          / /\_/\ \
+         - /     \ -
+          / /\_/\ \
+         - /     \ -
+          / /\_/\ \
+           \     /
+            \___/
 ```
 </div>
 <br/>
@@ -112,6 +113,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kecrwn&theme=dark&background=0A0A0A&border=3A3A3A&stroke=C2181C&ring=C2181C&fire=8B0000&currStreakNum=F2F0EB&currStreakLabel=8B0000&sideNums=F2F0EB&sideLabels=8B0000&dates=F2F0EB">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kecrwn&theme=light&background=F2F0EB&border=3A3A3A&stroke=8B0000&ring=8B0000&fire=C2181C&currStreakNum=0A0A0A&currStreakLabel=C2181C&sideNums=0A0A0A&sideLabels=C2181C&dates=0A0A0A">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kecrwn&theme=dark&background=0A0A0A&border=3A3A3A&stroke=C2181C&ring=C2181C&fire=8B0000&currStreakNum=F2F0EB&currStreakLabel=8B0000&sideNums=F2F0EB&sideLabels=8B0000&dates=F2F0EB" />
+  </picture>
+</div>
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kecrwn/Kecrwn/output/github-centipede-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kecrwn/Kecrwn/output/github-centipede-dark.svg">
+    <img alt="github contribution grid centipede" src="https://raw.githubusercontent.com/kecrwn/Kecrwn/output/github-centipede-dark.svg">
   </picture>
 </div>
 
