@@ -16,21 +16,21 @@
 
 <br/>
 <div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 20' width='400' height='20'><path d='M0 10 Q 200 20, 400 10' fill='none' stroke='%233A3A3A' stroke-width='1'/><path d='M 180 10 Q 200 20, 220 10' fill='none' stroke='%23C2181C' stroke-width='1.5'/></svg>" alt="Tendril Divider" />
+  <img src="./tendril.svg" alt="Tendril Divider" />
 </div>
 <br/>
 
-### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='16' height='16'><circle cx='12' cy='12' r='8' fill='none' stroke='%23C2181C' stroke-width='2'/><circle cx='12' cy='12' r='3' fill='%238B0000'/></svg>" /> Identity
+### <img src="./iris.svg" /> Identity
 
 - **Role**: Frontend Developer
 - **Weapons**: Modern TypeScript, React, and modular architecture.
 - **Focus**: Constructing polished, immersive web interfaces and quiet digital spaces.
 
 <br/>
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 10' width='400' height='10'><polyline points='0,5 100,5 110,2 120,8 130,5 400,5' fill='none' stroke='%233A3A3A' stroke-width='1'/><polyline points='100,5 110,2 120,8 130,5' fill='none' stroke='%238B0000' stroke-width='1'/></svg>" alt="Cracked Divider" />
+<img src="./cracked.svg" alt="Cracked Divider" />
 <br/>
 
-### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='16' height='16'><circle cx='12' cy='12' r='8' fill='none' stroke='%23C2181C' stroke-width='2'/><circle cx='12' cy='12' r='3' fill='%238B0000'/></svg>" /> Arsenal
+### <img src="./iris.svg" /> Arsenal
 
 <details>
   <summary><b>[ Inspect Frameworks & Tools ]</b></summary>
@@ -56,10 +56,10 @@
 </details>
 
 <br/>
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 10' width='400' height='10'><polyline points='0,5 100,5 110,2 120,8 130,5 400,5' fill='none' stroke='%233A3A3A' stroke-width='1'/><polyline points='100,5 110,2 120,8 130,5' fill='none' stroke='%238B0000' stroke-width='1'/></svg>" alt="Cracked Divider" />
+<img src="./cracked.svg" alt="Cracked Divider" />
 <br/>
 
-### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='16' height='16'><circle cx='12' cy='12' r='8' fill='none' stroke='%23C2181C' stroke-width='2'/><circle cx='12' cy='12' r='3' fill='%238B0000'/></svg>" /> Dispatches
+### <img src="./iris.svg" /> Dispatches
 
 | Project | Description | Link | Code |
 | :--- | :--- | :--- | :--- |
@@ -68,10 +68,10 @@
 | **[PROJECT_NAME_3]** | *[Short one-line description describing the architecture or mood]* | [Live](#) | [Repo](#) |
 
 <br/>
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 10' width='400' height='10'><polyline points='0,5 100,5 110,2 120,8 130,5 400,5' fill='none' stroke='%233A3A3A' stroke-width='1'/><polyline points='100,5 110,2 120,8 130,5' fill='none' stroke='%238B0000' stroke-width='1'/></svg>" alt="Cracked Divider" />
+<img src="./cracked.svg" alt="Cracked Divider" />
 <br/>
 
-### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='16' height='16'><circle cx='12' cy='12' r='8' fill='none' stroke='%23C2181C' stroke-width='2'/><circle cx='12' cy='12' r='3' fill='%238B0000'/></svg>" /> Metrics
+### <img src="./iris.svg" /> Metrics
 
 <div align="center">
   <picture>
@@ -101,7 +101,7 @@
 <br/>
 
 <div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 20' width='400' height='20'><path d='M0 10 Q 200 20, 400 10' fill='none' stroke='%233A3A3A' stroke-width='1'/><path d='M 180 10 Q 200 20, 220 10' fill='none' stroke='%23C2181C' stroke-width='1.5'/></svg>" alt="Tendril Divider" />
+  <img src="./tendril.svg" alt="Tendril Divider" />
   <br/>
   <p><sub>I only consume what I build.</sub></p>
 </div>
