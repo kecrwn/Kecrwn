@@ -49,10 +49,11 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kecrwn&show_icons=true&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&icon_color=8B0000&border_color=3A3A3A&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kecrwn&show_icons=true&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&icon_color=8B0000&border_color=3A3A3A&hide_border=false" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kecrwn&layout=donut&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&border_color=3A3A3A&hide_border=false&custom_title=System%20Core%20Integrity&ring_color=C2181C" alt="Arc Reactor Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kecrwn&layout=donut&bg_color=0A0A0A&title_color=C2181C&text_color=F2F0EB&border_color=3A3A3A&hide_border=false&custom_title=System%20Core%20Integrity&ring_color=C2181C" alt="Arc Reactor Stats" />
+
   <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/kecrwn/Kecrwn/output/github-centipede-dark.svg" alt="github contribution grid centipede" />
