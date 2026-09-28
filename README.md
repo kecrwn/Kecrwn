@@ -3,6 +3,9 @@
   <br/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&pause=1500&color=C2181C&center=true&vCenter=true&width=435&lines=Building+quietly+in+the+dark.;A+hidden+self,+structured+in+code.;Seeking+balance+in+the+noise." alt="Typing SVG" />
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=kecrwn&style=for-the-badge&color=8B0000&label=SYSTEM+INTRUSIONS&label_color=0A0A0A" alt="Profile Views" />
 </div>
 
 <br/>
@@ -16,6 +19,11 @@
 - **Role**: Frontend Developer
 - **Weapons**: Modern TypeScript, React, and modular architecture.
 - **Focus**: Constructing polished, immersive web interfaces and quiet digital spaces.
+
+<br/>
+
+> *"We need to stop living like we have a choice. We build what we must."* <br/>
+> — **Core Directive // 0x01**
 
 <br/>
 <img src="./cracked.svg" alt="Cracked Divider" />
